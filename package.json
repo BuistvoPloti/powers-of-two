@@ -1,0 +1,8 @@
+{
+  "name": "powers-of-two",
+  "description": "powers of two",
+  "main": "index.js",
+  "author": "Denis Khorovets",
+  "version": "1.0.0",
+  "license": "MIT"
+}
