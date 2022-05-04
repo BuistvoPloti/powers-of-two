@@ -5,7 +5,7 @@ Pack of precalculated powers of two
 ## Usage
 
 ```js
-const POWERS_OF_TWO_SAFE = require('is-power-of-two');
+const POWERS_OF_TWO_SAFE = require('powers-of-two');
 
 if (number === POWERS_OF_TWO_SAFE.POWER_2_16) {};
 ```
